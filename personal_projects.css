@@ -1,0 +1,13 @@
+ul {
+    list-style-type: none;
+}
+
+li.toplevel:before {
+    content: "❧";
+    margin-right: 5px;
+}
+
+li.secondlevel:before {
+    content: "❦";
+    margin-right: 5px;
+}

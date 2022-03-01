@@ -1,0 +1,15 @@
+div.right {
+    float: right;
+    height: 100%;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+
+
+img {
+    width: 200px;
+    height: auto;
+}
